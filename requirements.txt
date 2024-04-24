@@ -54,7 +54,7 @@ numpy==1.26.4
 oauthlib==3.2.2
 opt-einsum==3.3.0
 pandas==2.2.1
-pillow==10.2.0
+pillow==10.3.0
 ply==3.11
 preshed==3.0.9
 protobuf==4.25.3
